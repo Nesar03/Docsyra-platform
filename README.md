@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="docs/banner.svg" alt="Docsyra — doctor appointment booking platform" width="100%" />
 
 <br />
 
